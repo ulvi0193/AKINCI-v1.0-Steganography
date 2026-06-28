@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/VirusTotal-100%25%20Clean-emerald.svg" alt="Clean">
 </p>
 
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/98b900ad-2772-4f13-89a1-ad301e5639b2" />
+
 **AKINCI v1.0**, siber güvenlik operasyonlarında, sızma testlerinde ve güvenli veri paylaşımlarında gizliliği en üst düzeye çıkarmak için geliştirilmiş, Python tabanlı bir **steganografi (görsel içine veri gizleme)** aracıdır. Harici hiçbir üçüncü parti kütüphaneye (`pip install`) ihtiyaç duymadan, tamamen yerel modüllerle ve modern bir grafik arayüzle (GUI) çalışır.
 
 ---
@@ -17,6 +19,9 @@
 * **🔓 Tek Tıkla Mesaj Çözme:** İçinde veri saklanmış olan hedef dosyayı AKINCI arayüzüne yükleyerek saniyeler içinde şifrelenmiş mesajı çözün ve ortaya çıkarın.
 * **🚀 Sıfır Bağımlılık (Zero Dependency):** dış kütüphanelere bağımlılığı yoktur. Python'ın kurulu olduğu her sistemde (Windows, Linux, macOS) doğrudan çalıştırılabilir.
 * **🛡️ Benzersiz Tasarım:** Program başlatıldığında terminal üzerinde asil bir **Türk Bayrağı ve AKINCI ASCI yazisi** karşılaması yapar, ardından modern siyah-kırmızı hacker temalı grafik arayüzüne (GUI) geçiş sağlar.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a7f3a8f-b08b-46f7-a866-e2139cb5c25d" />
+
 
 ---
 
