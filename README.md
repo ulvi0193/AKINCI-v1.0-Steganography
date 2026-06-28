@@ -1,4 +1,4 @@
-# ⚡ AKINCI v1.0 — Steganography & Cyber Security Guard ⚡
+#  AKINCI v1.0 — Steganography & Cyber Security Guard 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-red.svg" alt="Python 3">
