@@ -9,7 +9,7 @@
 
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/98b900ad-2772-4f13-89a1-ad301e5639b2" />
 
-**AKINCI v1.0**, siber güvenlik operasyonlarında, sızma testlerinde ve güvenli veri paylaşımlarında gizliliği en üst düzeye çıkarmak için geliştirilmiş, Python tabanlı bir **steganografi (görsel içine veri gizleme)** aracıdır. Harici hiçbir üçüncü parti kütüphaneye (`pip install`) ihtiyaç duymadan, tamamen yerel modüllerle ve modern bir grafik arayüzle (GUI) çalışır.
+**AKINCI v1.0**, siber güvenlik operasyonlarında, sızma testlerinde ve güvenli veri paylaşımlarında gizliliği en üst düzeye çıkarmak için geliştirilmiş, Python tabanlı bir **steganografi (görsel içine veri gizleme)** aracıdır. Harici hiçbir python kütüphanesine ihtiyaç duymadan, tamamen yerel modüllerle ve modern bir grafik arayüzle (GUI) çalışır.
 
 ---
 
