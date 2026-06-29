@@ -30,7 +30,11 @@
 Sisteminizde Python 3'ün kurulu olması programın çalışması için yeterlidir.
 
 1. Bu depoyu klonlayın veya direkt `akinci.py` dosyasını indirin.
-git clone 
+ ```bash
+git clone https://github.com/ulvi0193/AKINCI-v1.0-Steganography
 2. Terminal / Komut Satırını (CMD) açarak dosyanın bulunduğu dizine gidin:
    ```bash
-   cd Desktop
+   cd AKINCI-v1.0-Steganography
+3. Sistemi çalıştırma 
+  ```bash
+python3 akinci.py
