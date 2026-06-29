@@ -30,6 +30,7 @@
 Sisteminizde Python 3'ün kurulu olması programın çalışması için yeterlidir.
 
 1. Bu depoyu klonlayın veya direkt `akinci.py` dosyasını indirin.
+git clone 
 2. Terminal / Komut Satırını (CMD) açarak dosyanın bulunduğu dizine gidin:
    ```bash
    cd Desktop
